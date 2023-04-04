@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TiaraBell, a Software Engineer :)
-- 👀 I’m currently interested in data engineering.
-- 🌱 Current tools and technologies I'm learning: Python, AWS Cloud, and various Data Engineering topics. 
-- 💞️ My current interests outside of problem solving are graphic design, digital planning, and gardening.
-- 📫 How to reach me email: hello@tiarabell.com 
+- 👋 Hi, I’m @TiaraBell
+- 👀 I’m currently interested in software engineering.
+- 🌱 Current tools and technologies I'm learning: SQL and AWS. 
+- 💞️ My current interests outside of coding are graphic design, digital planning, and bingeing adult animated shows.
+- 📫 How to reach me, email: hello@tiarabell.com 
